@@ -7,3 +7,4 @@ Challenge del programa Oracle Next Education - Grupo 8. Este proyecto consiste e
 - Registro de usuarios
 - Asignación aleatoria de un ganador del grupo de amigos registrados.
 
+![Imagen del proyecto](/assets/image.png)
