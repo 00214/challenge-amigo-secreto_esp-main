@@ -35,7 +35,6 @@ function sortearAmigo() {
         alert("Lista de amigos vacía, Agrega mínimo dos amigos para hacer el sorteo.");
     } else {
         indiceSorteado = generarIndiceAleatorio();
-        console.log()
         document.getElementById("resultado").innerHTML = `El amigo secreto sorteado es: ${amigos[indiceSorteado]}`
     }
 }
